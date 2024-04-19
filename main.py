@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 from telebot import types
 
-API_TOKEN='5381244364:AAFv6Af_wfXnRA7bSUeTpXRov_JYFlk4TYk'
+API_TOKEN=''
 
 db = sqlite3.connect('socio_bot.db')
 
